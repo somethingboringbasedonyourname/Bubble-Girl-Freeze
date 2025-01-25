@@ -66,6 +66,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: {x: 0, y: 0}
+    - useVariable: 1
+      name: mousePos
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {x: 0, y: 0}
     vector3Variables: []
     colorVariables: []
     rectVariables: []
@@ -78,5 +84,5 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000000000000
   events: []
