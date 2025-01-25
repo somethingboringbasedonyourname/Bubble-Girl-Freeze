@@ -238,7 +238,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &37911034
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1739,7 +1739,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101
-        actionIsOpen: 0101
+        actionIsOpen: 0000
         actionStartIndex: 0000000005000000
         actionHashCodes: 11839a0068fde304
         unityObjectParams: []
@@ -1776,7 +1776,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 6
+          value: 3
         - useVariable: 1
           name: xMove
           tooltip: 
@@ -2065,7 +2065,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 3
+          value: 5.05
         fsmIntParams: []
         fsmBoolParams: []
         fsmVector2Params:
