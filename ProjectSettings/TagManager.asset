@@ -11,6 +11,8 @@ TagManager:
   - turnL
   - turnR
   - Bullet
+  - turnLFly
+  - turnRFly
   layers:
   - Default
   - TransparentFX
