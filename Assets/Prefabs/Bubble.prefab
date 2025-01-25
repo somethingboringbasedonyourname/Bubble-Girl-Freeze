@@ -238,8 +238,8 @@ MonoBehaviour:
       colorIndex: 1
       position:
         serializedVersion: 2
-        x: 223.35938
-        y: 101.74219
+        x: 207.35156
+        y: 93.74219
         width: 107.333336
         height: 48
       isBreakpoint: 0
@@ -370,14 +370,18 @@ MonoBehaviour:
         - HutongGames.PlayMaker.Actions.SetVelocity2d
         - HutongGames.PlayMaker.Actions.TweenPosition
         - HutongGames.PlayMaker.Actions.Wait
+        - HutongGames.PlayMaker.Actions.SetVelocity2d
+        - HutongGames.PlayMaker.Actions.SetVelocity2d
         customNames:
         - 
         - 
         - 
-        actionEnabled: 010101
-        actionIsOpen: 000100
-        actionStartIndex: 000000000600000017000000
-        actionHashCodes: 68fde304c1a7050048c01101
+        - 
+        - 
+        actionEnabled: 0101010101
+        actionIsOpen: 0000000101
+        actionStartIndex: 0000000006000000170000001a00000020000000
+        actionHashCodes: 68fde304c1a7050048c0110168fde30468fde304
         unityObjectParams: []
         fsmGameObjectParams:
         - useVariable: 0
@@ -397,6 +401,22 @@ MonoBehaviour:
           gameObject:
             useVariable: 0
             name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 1
+          gameObject:
+            useVariable: 1
+            name: enemyTrapped
             tooltip: 
             showInInspector: 0
             networkSync: 0
@@ -463,7 +483,31 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 20
+          value: 5
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0.5
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0.3
         fsmIntParams: []
         fsmBoolParams:
         - useVariable: 0
@@ -479,6 +523,18 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: {x: 0, y: 0}
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {x: 0, y: 0}
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {x: 0, y: 0.3}
         fsmVector3Params:
         - useVariable: 0
           name: 
@@ -498,12 +554,12 @@ MonoBehaviour:
         stringParams:
         - 
         - Destroy Self
-        byteData: 000000000000000000050000000000000000000000000000000000
+        byteData: 00000000000000000005000000000000000000000000000000000000000000010000000001
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 14000000250000000f0000000f000000070000000100000007000000130000001c00000007000000130000001c000000140000000f0000002a000000160000000f0000001100000007000000170000000200000001000000070000000f0000001700000001000000
+        paramDataType: 14000000250000000f0000000f000000070000000100000007000000130000001c00000007000000130000001c000000140000000f0000002a000000160000000f0000001100000007000000170000000200000001000000070000000f000000170000000100000014000000250000000f0000000f000000070000000100000014000000250000000f0000000f0000000700000001000000
         paramName:
         - gameObject
         - vector
@@ -531,8 +587,20 @@ MonoBehaviour:
         - time
         - finishEvent
         - realTime
-        paramDataPos: 0000000000000000000000000100000000000000040000000500000000000000000000000900000001000000010000000100000002000000000000000000000003000000000000000d0000000000000011000000150000001600000004000000010000001a000000
-        paramByteDataSize: 0000000000000000000000000000000004000000010000000400000000000000000000000400000000000000000000000000000000000000000000000000000000000000000000000400000000000000040000000100000004000000000000000000000001000000
+        - gameObject
+        - vector
+        - x
+        - y
+        - space
+        - everyFrame
+        - gameObject
+        - vector
+        - x
+        - y
+        - space
+        - everyFrame
+        paramDataPos: 0000000000000000000000000100000000000000040000000500000000000000000000000900000001000000010000000100000002000000000000000000000003000000000000000d0000000000000011000000150000001600000004000000010000001a000000020000000100000005000000060000001b0000001f000000030000000200000007000000080000002000000024000000
+        paramByteDataSize: 0000000000000000000000000000000004000000010000000400000000000000000000000400000000000000000000000000000000000000000000000000000000000000000000000400000000000000040000000100000004000000000000000000000001000000000000000000000000000000000000000400000001000000000000000000000000000000000000000400000001000000
     - name: Destroy Self
       description: 
       colorIndex: 6
@@ -723,7 +791,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!58 &5092671084134643342
 CircleCollider2D:
   m_ObjectHideFlags: 0
