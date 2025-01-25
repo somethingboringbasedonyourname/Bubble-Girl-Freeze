@@ -10,6 +10,7 @@ TagManager:
   - Bubble Center
   - turnL
   - turnR
+  - Bullet
   layers:
   - Default
   - TransparentFX
