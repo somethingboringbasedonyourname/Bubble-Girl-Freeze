@@ -1088,7 +1088,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 1
+          value: 0
         fsmVector2Params:
         - useVariable: 1
           name: 
