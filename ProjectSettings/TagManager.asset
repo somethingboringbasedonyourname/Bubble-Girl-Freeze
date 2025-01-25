@@ -15,6 +15,7 @@ TagManager:
   - turnRFly
   - flyingEnemy
   - Level End
+  - Death
   layers:
   - Default
   - TransparentFX
