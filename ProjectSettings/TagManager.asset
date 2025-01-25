@@ -8,6 +8,8 @@ TagManager:
   - Bubble
   - Ground
   - Bubble Center
+  - turnL
+  - turnR
   layers:
   - Default
   - TransparentFX
