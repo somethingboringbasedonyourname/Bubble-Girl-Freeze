@@ -114,7 +114,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 320
         width: 74
         height: 80
       alignment: 0
@@ -135,7 +135,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 74
-        y: 0
+        y: 320
         width: 74
         height: 80
       alignment: 0
@@ -156,7 +156,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 148
-        y: 0
+        y: 320
         width: 74
         height: 80
       alignment: 0
@@ -177,7 +177,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 222
-        y: 0
+        y: 320
         width: 74
         height: 80
       alignment: 0
@@ -198,7 +198,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 296
-        y: 0
+        y: 320
         width: 74
         height: 80
       alignment: 0
@@ -219,7 +219,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 370
-        y: 0
+        y: 320
         width: 74
         height: 80
       alignment: 0
@@ -240,7 +240,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 444
-        y: 0
+        y: 320
         width: 74
         height: 80
       alignment: 0
@@ -261,7 +261,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 518
-        y: 0
+        y: 320
         width: 74
         height: 80
       alignment: 0
@@ -281,8 +281,8 @@ TextureImporter:
       name: BubbleGirlTransformation_8
       rect:
         serializedVersion: 2
-        x: 592
-        y: 0
+        x: 0
+        y: 240
         width: 74
         height: 80
       alignment: 0
@@ -302,8 +302,8 @@ TextureImporter:
       name: BubbleGirlTransformation_9
       rect:
         serializedVersion: 2
-        x: 666
-        y: 0
+        x: 74
+        y: 240
         width: 74
         height: 80
       alignment: 0
@@ -323,8 +323,8 @@ TextureImporter:
       name: BubbleGirlTransformation_10
       rect:
         serializedVersion: 2
-        x: 740
-        y: 0
+        x: 148
+        y: 240
         width: 74
         height: 80
       alignment: 0
@@ -344,8 +344,8 @@ TextureImporter:
       name: BubbleGirlTransformation_11
       rect:
         serializedVersion: 2
-        x: 814
-        y: 0
+        x: 222
+        y: 240
         width: 74
         height: 80
       alignment: 0
@@ -365,8 +365,8 @@ TextureImporter:
       name: BubbleGirlTransformation_12
       rect:
         serializedVersion: 2
-        x: 888
-        y: 0
+        x: 296
+        y: 240
         width: 74
         height: 80
       alignment: 0
@@ -386,8 +386,8 @@ TextureImporter:
       name: BubbleGirlTransformation_13
       rect:
         serializedVersion: 2
-        x: 962
-        y: 0
+        x: 370
+        y: 240
         width: 74
         height: 80
       alignment: 0
@@ -407,8 +407,8 @@ TextureImporter:
       name: BubbleGirlTransformation_14
       rect:
         serializedVersion: 2
-        x: 1036
-        y: 0
+        x: 444
+        y: 240
         width: 74
         height: 80
       alignment: 0
@@ -428,8 +428,8 @@ TextureImporter:
       name: BubbleGirlTransformation_15
       rect:
         serializedVersion: 2
-        x: 1110
-        y: 0
+        x: 518
+        y: 240
         width: 74
         height: 80
       alignment: 0
@@ -449,8 +449,8 @@ TextureImporter:
       name: BubbleGirlTransformation_16
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 0
+        x: 0
+        y: 160
         width: 74
         height: 80
       alignment: 0
@@ -470,8 +470,8 @@ TextureImporter:
       name: BubbleGirlTransformation_17
       rect:
         serializedVersion: 2
-        x: 1258
-        y: 0
+        x: 74
+        y: 160
         width: 74
         height: 80
       alignment: 0
@@ -491,8 +491,8 @@ TextureImporter:
       name: BubbleGirlTransformation_18
       rect:
         serializedVersion: 2
-        x: 1332
-        y: 0
+        x: 148
+        y: 160
         width: 74
         height: 80
       alignment: 0
@@ -512,8 +512,8 @@ TextureImporter:
       name: BubbleGirlTransformation_19
       rect:
         serializedVersion: 2
-        x: 1406
-        y: 0
+        x: 222
+        y: 160
         width: 74
         height: 80
       alignment: 0
@@ -533,8 +533,8 @@ TextureImporter:
       name: BubbleGirlTransformation_20
       rect:
         serializedVersion: 2
-        x: 1480
-        y: 0
+        x: 296
+        y: 160
         width: 74
         height: 80
       alignment: 0
@@ -554,8 +554,8 @@ TextureImporter:
       name: BubbleGirlTransformation_21
       rect:
         serializedVersion: 2
-        x: 1554
-        y: 0
+        x: 370
+        y: 160
         width: 74
         height: 80
       alignment: 0
@@ -575,8 +575,8 @@ TextureImporter:
       name: BubbleGirlTransformation_22
       rect:
         serializedVersion: 2
-        x: 1628
-        y: 0
+        x: 444
+        y: 160
         width: 74
         height: 80
       alignment: 0
@@ -596,8 +596,8 @@ TextureImporter:
       name: BubbleGirlTransformation_23
       rect:
         serializedVersion: 2
-        x: 1702
-        y: 0
+        x: 518
+        y: 160
         width: 74
         height: 80
       alignment: 0
@@ -617,8 +617,8 @@ TextureImporter:
       name: BubbleGirlTransformation_24
       rect:
         serializedVersion: 2
-        x: 1776
-        y: 0
+        x: 0
+        y: 80
         width: 74
         height: 80
       alignment: 0
@@ -638,8 +638,8 @@ TextureImporter:
       name: BubbleGirlTransformation_25
       rect:
         serializedVersion: 2
-        x: 1850
-        y: 0
+        x: 74
+        y: 80
         width: 74
         height: 80
       alignment: 0
@@ -659,8 +659,8 @@ TextureImporter:
       name: BubbleGirlTransformation_26
       rect:
         serializedVersion: 2
-        x: 1924
-        y: 0
+        x: 148
+        y: 80
         width: 74
         height: 80
       alignment: 0
@@ -680,8 +680,8 @@ TextureImporter:
       name: BubbleGirlTransformation_27
       rect:
         serializedVersion: 2
-        x: 1998
-        y: 0
+        x: 222
+        y: 80
         width: 74
         height: 80
       alignment: 0
@@ -701,8 +701,8 @@ TextureImporter:
       name: BubbleGirlTransformation_28
       rect:
         serializedVersion: 2
-        x: 2072
-        y: 0
+        x: 296
+        y: 80
         width: 74
         height: 80
       alignment: 0
@@ -722,8 +722,8 @@ TextureImporter:
       name: BubbleGirlTransformation_29
       rect:
         serializedVersion: 2
-        x: 2146
-        y: 0
+        x: 370
+        y: 80
         width: 74
         height: 80
       alignment: 0
@@ -743,8 +743,8 @@ TextureImporter:
       name: BubbleGirlTransformation_30
       rect:
         serializedVersion: 2
-        x: 2220
-        y: 0
+        x: 444
+        y: 80
         width: 74
         height: 80
       alignment: 0
@@ -764,8 +764,8 @@ TextureImporter:
       name: BubbleGirlTransformation_31
       rect:
         serializedVersion: 2
-        x: 2294
-        y: 0
+        x: 518
+        y: 80
         width: 74
         height: 80
       alignment: 0
@@ -785,7 +785,7 @@ TextureImporter:
       name: BubbleGirlTransformation_32
       rect:
         serializedVersion: 2
-        x: 2368
+        x: 0
         y: 0
         width: 74
         height: 80
@@ -806,7 +806,7 @@ TextureImporter:
       name: BubbleGirlTransformation_33
       rect:
         serializedVersion: 2
-        x: 2442
+        x: 74
         y: 0
         width: 74
         height: 80
@@ -827,7 +827,7 @@ TextureImporter:
       name: BubbleGirlTransformation_34
       rect:
         serializedVersion: 2
-        x: 2516
+        x: 148
         y: 0
         width: 74
         height: 80
@@ -848,7 +848,7 @@ TextureImporter:
       name: BubbleGirlTransformation_35
       rect:
         serializedVersion: 2
-        x: 2590
+        x: 222
         y: 0
         width: 74
         height: 80
@@ -869,7 +869,7 @@ TextureImporter:
       name: BubbleGirlTransformation_36
       rect:
         serializedVersion: 2
-        x: 2664
+        x: 296
         y: 0
         width: 74
         height: 80
@@ -890,7 +890,7 @@ TextureImporter:
       name: BubbleGirlTransformation_37
       rect:
         serializedVersion: 2
-        x: 2738
+        x: 370
         y: 0
         width: 74
         height: 80
@@ -911,7 +911,7 @@ TextureImporter:
       name: BubbleGirlTransformation_38
       rect:
         serializedVersion: 2
-        x: 2812
+        x: 444
         y: 0
         width: 74
         height: 80
