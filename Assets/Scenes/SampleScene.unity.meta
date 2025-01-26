@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity.meta
 guid: 8c9cfa26abfee488c85f1582747f6a02
+=======
+guid: 78749a482383bc24fa36ce839553e493
+folderAsset: yes
+>>>>>>> Stashed changes:Assets/Audio.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
