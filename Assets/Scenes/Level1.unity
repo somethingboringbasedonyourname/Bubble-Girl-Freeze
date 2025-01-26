@@ -996,6 +996,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4499241775092546662, guid: 6d938f54b7593c64ba240558fe6351b5, type: 3}
+      propertyPath: fsm.states.Array.data[0].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
+      value: 
+      objectReference: {fileID: 37911031}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13405,7 +13409,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4263866170961660351, guid: 33058dbd9f9440b4c9671c7bca751928, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -19.57
+      value: -18.35
       objectReference: {fileID: 0}
     - target: {fileID: 4263866170961660351, guid: 33058dbd9f9440b4c9671c7bca751928, type: 3}
       propertyPath: m_LocalPosition.y
